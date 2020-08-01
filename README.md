@@ -1,4 +1,7 @@
 # ComputerHardMode
+
+DISCLAIMER: IN CASE YOU MANAGE TO SCREW UP YOUR COMPUTER WITH THIS, IT'S NOT MY FAULT.
+
 Have you ever felt that your computer was too easy to use? Do you want a challenge when you try to click things? Do you want windows to randomly close? If so, turn on hard mode with "Computer Hard Mode: Hard Mode For Your Computer".
 
 This code is made with python 3.6, and it has a MIT licence.
